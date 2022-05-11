@@ -1,0 +1,362 @@
+Main Menu
+January 2022
+Stream
+Classwork
+People
+All topics
+JAVA Extra Videos
+Testing
+DataStructures
+Debugging Code
+Java Extra Videos
+Java Assignment
+SQL Assignment
+Aptitude
+Google Calendar
+Class Drive folder
+Material
+SQL - Important Interview Question
+Posted Apr 7
+Material
+Figure patterns
+Posted Apr 2
+Material
+MySQL Installation
+Posted Mar 30
+Material
+DDL file - SQL Material
+Posted Feb 21
+Material
+Java Notes
+Posted Feb 18
+Material
+Installation of Oracle Software
+Posted Feb 17
+Material
+Steps for Github
+Posted Feb 15
+Material
+Resume Project
+Posted Feb 15
+
+sty.css
+Style Sheet
+
+index.html
+HTML
+JAVA Extra Videos
+JAVA Extra Videos
+Assignment
+HackerEarth Programming
+Due May 15
+Testing
+Testing
+Material
+Manual testing notes
+Posted May 4
+DataStructures
+DataStructures
+Completed Assignment
+DataStructures using Java
+Due Apr 30
+Debugging Code
+Debugging Code
+Assignment
+Debugging code 6
+Due Apr 18, 5:00 PM
+Completed Assignment
+Debugging code 5
+Due Apr 11, 5:00 PM
+Completed Assignment
+Debugging code 4
+Due Apr 8, 5:00 PM
+Completed Assignment
+Debugging code 3
+Due Mar 31, 5:00 PM
+Completed Assignment
+Debugging code - 2
+Due Mar 25, 5:00 PM
+Completed Assignment
+Debugging code - 1
+Due Mar 23, 5:00 PM
+Java Extra Videos
+Java Extra Videos
+Completed Assignment
+Java Swings using Window Builder
+Due Apr 11
+Completed Assignment
+Debug Mode in Eclipse
+Due Mar 20
+Completed Assignment
+Java Docs
+Due Mar 20
+Completed Assignment
+Selection Sort and Insertion Sort
+Due Mar 20
+Completed Assignment
+Searching and Sorting Algorithms
+Due Mar 11
+Java Assignment
+Java Assignment
+Completed Assignment
+Pattern Assignment
+Due Mar 7
+Assignment
+String inbuilt methods
+Due Mar 6
+Assignment
+Java 2D Arrays Assignment
+Due Feb 24
+Completed Assignment
+Typecasting Assignment
+Due Feb 20
+SQL Assignment
+SQL Assignment
+Completed Assignment
+Assignment 4
+Due Mar 28, 2:00 PM
+Completed Assignment
+Assignment 3
+Due Mar 14, 2:00 PM
+Assignment
+Assignment 2
+Due Feb 28, 5:00 PM
+Completed Assignment
+Assignment 1
+Due Feb 18
+Aptitude
+Aptitude
+Material
+Figure patterns
+Posted Apr 2
+Material
+DI /DS
+Posted Apr 2
+Material
+Direction sense
+Posted Mar 29
+Material
+Blood relations
+Posted Mar 29
+Material
+Syllogism
+Posted Mar 28
+Material
+Order sequencing Number series, coding
+Posted Mar 28
+Material
+Crypt arithmetic
+Posted Mar 22
+Material
+Area Mensuration
+Posted Mar 22
+Material
+Calendar
+Posted Mar 17
+Material
+Clocks
+Posted Mar 17
+Classwork for January 2022
+*{
+    padding: 0;
+    margin: 0;
+    outline: none;
+    border: none;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+body{
+    background-color: #111;
+    overflow: hidden;
+    padding-left: 35rem;
+}
+
+.heading{
+    text-align: center;
+    margin: 0 6rem;
+    font-size: 4rem;
+    padding-top: 6rem;
+    border-bottom: .1rem solid #fff4;
+    color: #fff;
+}
+
+.heading span{
+    color: white;
+}
+
+.title{
+    text-align: center;
+    margin: 0 6rem;
+    font-size: 4rem;
+    padding-top: 6rem;
+    border-bottom: .1rem solid #fff4;
+    color: #fff;
+}
+
+.title span{
+    color: white;
+}
+
+.head{
+    text-align: center;
+    margin: 0 6rem;
+    font-size: 4rem;
+    padding-top: 5rem;
+    border-bottom: .1rem solid #fff4;
+    color: #fff;
+}
+.head span{
+    color: white;
+}
+.pro{
+    text-align: center;
+    margin: 0 6rem;
+    font-size: 4rem;
+    padding-top: 5rem;
+    border-bottom: .1rem solid #fff4;
+    color: #fff;
+}
+.pro span{
+    color: #131861;
+}
+header{
+    position:fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    height: 100%;
+    width: 35rem;
+    background:#1a1a1a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+    text-align: center;
+}
+
+header .user img{
+    height: 13rem;
+    width: 13rem;
+    border-radius: 50%;
+    object-fit: cover;
+    border: .5rem solid;
+}
+
+header .user .nm{
+    font-size:2rem;
+    color: #fff;
+}
+
+header .user .jb{
+    font-size:1rem;
+    color: #fff;
+}
+
+header .nv{
+    width: 100%;
+}
+header .nv ul{
+    list-style: none;
+    padding: 1rem ;
+}
+
+header .nv ul li a{
+    display: block;
+    padding: 1rem;
+    margin: 1.5rem 0;
+    background: #333;
+    color: #fff;
+    font-size: 2rem;
+    border-radius: 5rem;
+    text-decoration: none;  
+}
+header .nv ul li a:hover{
+    background-color:yellowgreen;
+}
+
+.Details .Row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 3rem 0;
+}
+
+.Details .Row .det{
+    flex: 1 1 48rem;
+    padding: 2rem 1rem;
+    padding-left: 8rem;
+}
+
+.Details .Row .det h3{
+    font-size: 2rem;
+    color: #C4C4CB;
+    padding: 1rem 0;
+    font-weight: normal;
+}
+
+.Details .Row .det h3 span{
+    color: #727272;
+    padding: 0. 5rem;
+}
+table,th,td{
+    border: 1px solid #2430E2;
+    border-collapse: collapse;
+}
+td{
+    color: white;
+    padding: 1rem;
+}
+th{
+    color: white;
+    padding: 1rem;
+}
+table{
+    text-align: center;
+    margin: 0 6rem;
+    font-size: 2rem;
+    padding: 1rem;
+    border-bottom: .1rem solid #fff4;
+    color: #fff;
+}
+#lis li{
+    margin: 0 9rem;
+    color: white;
+    font-size: medium;
+    padding: .5rem 1rem;
+}
+.Project .Row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 3rem 0;
+}
+
+.Project .Row .det{
+    flex: 1 1 48rem;
+    padding: 2rem 1rem;
+    padding-left: 8rem;
+}
+
+.Project .Row .det h3{
+    font-size: 2rem;
+    color: #C4C4CB;
+    padding: 1rem 0;
+    font-weight: normal;
+}
+
+.Project .Row .det h3 span{
+    color: #727272;
+    padding: 0. 5rem;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+sty.css
+Displaying sty.css.
